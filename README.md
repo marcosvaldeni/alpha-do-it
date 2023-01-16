@@ -9,7 +9,7 @@
 
 # :pushpin: Table of Contents
 * [Made With](#rocket-made-with)
-* [Layout](#handbag)
+* [Layout](#handbag-layout)
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
 * [Found a bug? Missing a specific feature?](#bug-issues)
@@ -20,13 +20,13 @@
 
 * 💛 Vite
 * 💅🏻 CSS Modules
-* 🪝 React Hooks
+* 🖇 React Hooks
 * 💠 TypeScript
 * 💫 React
 
 # :handbag: Layout
 
-The alphadoit layout was based on an exercise proposed by the [Rocketseat](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh) on the Ignite Bootcamp [Figma project](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate).
+The alphadoit layout was based on an exercise proposed by the [Rocketseat](https://www.rocketseat.com.br/) on the Ignite Bootcamp [Figma project](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate).
 # :construction_worker: Installation
 
 **You need to install at least [NodeJS 12.18.2](https://nodejs.org/), then in order to clone the project via HTTPS, run this command:**
