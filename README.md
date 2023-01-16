@@ -69,7 +69,7 @@ Check out the [contributing](https://github.com/marcosvaldeni/alpha-do-it/blob/m
 
 # :closed_book: License
 
-Released in 2022.
+Released in 2023.
 This project is under the [MIT license](https://github.com/marcosvaldeni/alpha-do-it/blob/master/LICENSE).
 
 Made with love by [Marcos Lucas](https://github.com/marcosvaldeni) 💚🚀
